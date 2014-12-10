@@ -1,0 +1,12 @@
+{
+  "name": "toggle-document-colors",
+  "title": "Toggle Document Colors",
+  "id": "jid1-seVepDGOivl8Sg",
+  "description": "A simple toolbar button to quickly toggle browser.display.use_document_colors ",
+  "author": "dbyrne",
+  "license": "GNU GPL v3",
+  "permissions": {"private-browsing": true},
+  "icon":"data/images/icon_on48.png",
+  "icon64":"data/images/icon_on64.png",
+  "version": "1.0"
+}
